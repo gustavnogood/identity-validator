@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityValidator", "IdentityValidator\IdentityValidator.csproj", "{673933E3-88AE-4B0E-989F-B0708DB17E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityValidator.Tests", "IdentityValidator.Tests\IdentityValidator.Tests.csproj", "{BFF95BEC-99C6-4C25-8726-5939D456697F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673933E3-88AE-4B0E-989F-B0708DB17E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673933E3-88AE-4B0E-989F-B0708DB17E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673933E3-88AE-4B0E-989F-B0708DB17E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673933E3-88AE-4B0E-989F-B0708DB17E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF95BEC-99C6-4C25-8726-5939D456697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF95BEC-99C6-4C25-8726-5939D456697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF95BEC-99C6-4C25-8726-5939D456697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF95BEC-99C6-4C25-8726-5939D456697F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

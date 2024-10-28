@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\bin\Release\net8.0\IdentityValidator.exe
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\bin\Release\net8.0\IdentityValidator.deps.json
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\bin\Release\net8.0\IdentityValidator.runtimeconfig.json
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\bin\Release\net8.0\IdentityValidator.dll
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\bin\Release\net8.0\IdentityValidator.pdb
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.dll
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\refint\IdentityValidator.dll
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.pdb
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\IdentityValidator.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Skrivbord\omega-point-inlämning\identity-validator\IdentityValidator\obj\Release\net8.0\ref\IdentityValidator.dll
